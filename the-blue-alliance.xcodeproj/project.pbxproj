@@ -939,7 +939,7 @@
 				ORGANIZATIONNAME = "The Blue Alliance";
 				TargetAttributes = {
 					50832DF61918BB63003AC8A7 = {
-						DevelopmentTeam = RHCNV9ZW2S;
+						DevelopmentTeam = M7HG7E77ZC;
 					};
 				};
 			};
